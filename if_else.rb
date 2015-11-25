@@ -12,6 +12,8 @@ when 'cloudy'
 	puts 'Take an umbrella, just in case!'
 when 'windy'
 	puts 'Better bring a jacket.'
+else
+	puts 'Hmmm, what\'s your weather app say?'
 end
 		
 		
